@@ -10,12 +10,14 @@
 int main(void)
 
 {
-	int d;
+	int c;
 
-	for (d = '0'; d <= '9'; d++)
-
-putchar(d);
-putchar('\n');
-
-return (0);
+	c = 0;
+	while
+		(c < 10) {
+			putchar(c + '0');
+			c++;
+		}
+	putchar('\n');
+		return (0);
 }
