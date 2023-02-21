@@ -4,6 +4,7 @@
  * _isalpha - Shows 1 if the input is a
  * letter Another cases, shows 0
  *
+ * character in ASCCII code
  *
  * Return: 1 for letters. 0 for the rest.
  */
