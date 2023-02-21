@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints natural numbers below 1024 
+ * main - Prints natural numbers below 1024
  *
  * Return: Always 0.
  */
