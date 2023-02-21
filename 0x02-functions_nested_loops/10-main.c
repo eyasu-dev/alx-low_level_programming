@@ -1,9 +1,8 @@
+#include "main.h"
 #include <stdio.h>
 
 /**
  * main - check the code
- *
- * add - is the num.
  *
  * Return: Always 0.
  */
